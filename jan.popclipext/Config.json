@@ -1,0 +1,8 @@
+{
+    "name": "Jan",
+    "icon": "jan.svg",
+    "identifier": "tech.mazhen.popclip.extension.jan",
+    "description": "Activate and pass the selected text to Jan.",
+    "popclipVersion": 4069,
+    "applescript file": "jan.applescript"
+}
